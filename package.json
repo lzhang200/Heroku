@@ -4,7 +4,6 @@
   "description": "CI/CD",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test":"mocha || true"
+    "start": "node index.js"
   },
 }
