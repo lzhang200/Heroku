@@ -1,9 +1,22 @@
 {
-  "name": "acit2911",
+  "name": "nodejs-hello-world",
   "version": "1.0.0",
-  "description": "CI/CD",
+  "description": "Hello World sample app",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhinkel/nodejs-hello-world.git"
+  },
+  "author": "johnny",
+  "license": "MIT",
+  "devDependencies":{
+}
+  "bugs": {
+    "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
 }
