@@ -15,8 +15,5 @@
   "license": "MIT",
   "devDependencies":{
 }
-  "bugs": {
-    "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
-  },
-  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
+  
 }
