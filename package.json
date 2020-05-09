@@ -1,9 +1,10 @@
 {
-  "name": "nodejs-hello-world",
+  "name": "acit2911",
   "version": "1.0.0",
   "description": "CI/CD",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-  }
+    "test":"mocha || true"
+  },
 }
