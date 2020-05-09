@@ -1,24 +1,14 @@
 {
   "name": "nodejs-hello-world",
   "version": "1.0.0",
-  "description": "Hello World sample app",
+  "description": "CI/CD",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "mocha || true"
   },
-  "devDependencies": {
+"devDependencies": {
 "chai": "^4.2.0",
 "mocha": "^6.1.4"
 }
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fhinkel/nodejs-hello-world.git"
-  },
-  "author": "fhinkel",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
-  },
-  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
 }
