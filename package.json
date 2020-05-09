@@ -1,0 +1,19 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "main": "HelloAcit2911.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzhang200/Heroku.git"
+  },
+  "author": "johnny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lzhang200/Heroku/issues"
+  },
+  "homepage": "https://github.com/lzhang200/Heroku#readme",
+  "description": ""
+}
